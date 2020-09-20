@@ -35,3 +35,14 @@ I am looking forward to learn and use new technologies, have experience working 
     * Elilink Consulting
     * position: Software Engineer      
 
+**Higher education**
+Belarusian State University: 
+Faculty of Radiophysics and Computer Technologies, information security.
+
+**Languages**
+* Russian — Native
+* English — B1 — Intermediate
+* German — A2 — Elementary
+
+
+
