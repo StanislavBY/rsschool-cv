@@ -6,6 +6,7 @@
 * stanislavby@mail.ru — preferred means of communication
 
 **About me**
+
 I am looking forward to learn and use new technologies, have experience working in and without a team, can quickly make important decisions depending on different cases. I am responsible and reliable person and i am looking for any possibility of professional growth. Also I am confident PC user (hardware/software as well).
 
 **Key skills**
@@ -36,6 +37,7 @@ I am looking forward to learn and use new technologies, have experience working 
     * position: Software Engineer      
 
 **Higher education**
+
 Belarusian State University: 
 Faculty of Radiophysics and Computer Technologies, information security.
 
